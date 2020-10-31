@@ -13,7 +13,7 @@ https://www.asciiart.eu/mythology/mythology
 https://www.asciiart.eu/mythology/fantasy
 https://www.asciiart.eu/mythology/grim-reapers
 
-<img align="right" src="https://github.com/randumrawr/halloweensay/blob/master/pumpkin-demo.png" alt="Pumpkin say" width=350px height=465px/>
+<img align="right" src="https://github.com/randumrawr/halloweensay/blob/main/pumpkin-demo.png" alt="Pumpkin say" width=350px height=465px/>
 
 # TODO
 	- switch between different art by commandline argument
